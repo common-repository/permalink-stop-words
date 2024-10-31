@@ -1,0 +1,10 @@
+{
+    "name"       : "mdt/permalink-stop-words",
+    "description": "Remove unwanted words from your permalinks to keep your URLs concise.",
+    "homepage"   : "https://wordpress.org/plugins/permalink-stop-words/",
+    "type"       : "wordpress-plugin",
+    "license"    : "GPL-2.0+",
+    "support"    : {
+        "forum": "https://wordpress.org/support/plugin/permalink-stop-words"
+    }
+}
